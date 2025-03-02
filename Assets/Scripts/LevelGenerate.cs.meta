@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e073e576faac56e42a8ab19d628b2c14
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rampPrefab: {fileID: 8680005391993804965, guid: 899ce6c17bfe29b4d84ead4a2302fdab, type: 3}
+  - snowflakePrefab: {fileID: 2585155774676631355, guid: b869d12b7516ec74caabda55c8a7f8a8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
