@@ -4989,6 +4989,9 @@ MonoBehaviour:
   torqueAmount: 10
   boostSpeed: 30
   baseSpeed: 20
+  jumpForce: 10
+  powerUpSpeed: 50
+  powerUpDuration: 5
 --- !u!114 &1586568504966985493
 MonoBehaviour:
   m_ObjectHideFlags: 0
