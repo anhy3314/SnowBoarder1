@@ -11344,7 +11344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   reloadDelay: 1.5
   finishEffect: {fileID: 135784409}
-  NextLevelScene: 0
+  NextLevelScene: 5
 --- !u!61 &1012007225
 BoxCollider2D:
   m_ObjectHideFlags: 0
